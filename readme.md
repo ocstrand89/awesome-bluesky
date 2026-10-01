@@ -60,6 +60,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [TrackBlue](https://track.blue/) - schedule posts, track engagement, and manage your audience with powerful CRM tools
  - [Tracker - Manager for Bluesky](https://linktr.ee/bluesky.tracker) - post analysis and advanced post stats along with likes tracking.
  - [TrendSpotter](https://www.trendspotter.blue/) - Discover trends and viral posts on Bluesky
+ - [Updrift](https://updrift.social/go/awesome) - Stats, a planner that posts at your best hours, and one inbox for replies; free stats for one account
 
 ## Post Management 
  - [bluesky-crossposter](https://github.com/Linus2punkt0/bluesky-crossposter) - python script to crosspost bluesky content to Twitter and Mastodon
@@ -121,6 +122,7 @@ Know of another tool? Either submit it here as a pull request or tell us on Blue
  - [Swiper.blue](https://swiper.blue/) - discover new follows by swiping through profiles ala Tinder
  - [theonesky](https://opnsrc.codes/) - Bluesky firehose as The Matrix source code
  - [TipTopBot](https://tiptopbot.com) - List followers or follows for any Bluesky handle and export them to a CSV file
+ - [updrift.link](https://updrift.social/go/awesome-link) - Free link-in-bio page at your Bluesky handle, with a click count on every link
  - [Vanity Blue](https://vanity.blue/) - custom handle provider
  - [Woosh.link](https://woosh.link/) - Effortless link sharing for Bluesky and beyond.
 
